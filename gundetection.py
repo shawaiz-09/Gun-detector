@@ -28,3 +28,4 @@ while True:
         break
 vid_cap.release()
 cv2.destroyAllWindows()
+#shawaiz hassan
